@@ -1,4 +1,4 @@
-# SJUST SLIME - Loja
+# JUST SLIME - Loja
 
 ## Descrição
 Website pensado para hospedar uma loja de slime.
